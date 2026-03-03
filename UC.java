@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class UC-7{
 
     /**
      * Inner class to encapsulate a character and its multi-line pattern.
